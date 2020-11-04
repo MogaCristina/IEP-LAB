@@ -1,0 +1,3 @@
+/home/cristina/Desktop/git-iep/IEP-LAB/Iep1/build/CMakeFiles/rebuild_cache.dir
+/home/cristina/Desktop/git-iep/IEP-LAB/Iep1/build/CMakeFiles/edit_cache.dir
+/home/cristina/Desktop/git-iep/IEP-LAB/Iep1/build/CMakeFiles/food.dir

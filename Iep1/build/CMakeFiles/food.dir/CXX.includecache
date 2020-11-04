@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cristina/Desktop/git-iep/IEP-LAB/Iep1/inc/Meniu.hpp
+iostream
+-
+list
+-
+string
+-
+
+/home/cristina/Desktop/git-iep/IEP-LAB/Iep1/inc/Restaurant.hpp
+../src/Necopiabil.cpp
+/home/cristina/Desktop/git-iep/IEP-LAB/Iep1/src/Necopiabil.cpp
+Meniu.hpp
+/home/cristina/Desktop/git-iep/IEP-LAB/Iep1/inc/Meniu.hpp
+iostream
+-
+list
+-
+string
+-
+
+/home/cristina/Desktop/git-iep/IEP-LAB/Iep1/src/Necopiabil.cpp
+
+/home/cristina/Desktop/git-iep/IEP-LAB/Iep1/src/main.cpp
+iostream
+-
+../inc/Meniu.hpp
+/home/cristina/Desktop/git-iep/IEP-LAB/Iep1/inc/Meniu.hpp
+../inc/Restaurant.hpp
+/home/cristina/Desktop/git-iep/IEP-LAB/Iep1/inc/Restaurant.hpp
+

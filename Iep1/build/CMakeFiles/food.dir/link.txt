@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/food.dir/src/main.cpp.o CMakeFiles/food.dir/src/Necopiabil.cpp.o CMakeFiles/food.dir/src/Restaurant.cpp.o CMakeFiles/food.dir/src/Meniu.cpp.o  -o food 
